@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Bienbenido a mi github profesional 👋
+#### 👨‍ Participo en grandes proyectos; el trabajo conjunto con personas de diferentes especialidades impulsa mi crecimiento profesional.
 <!--
 **s-manuel/s-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
